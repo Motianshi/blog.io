@@ -20,8 +20,8 @@
 
 首先引入 maven 依赖
 
-```java
-		<dependency>
+```xml
+    <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-amqp</artifactId>
         <version>2.1.4.RELEASE</version>
